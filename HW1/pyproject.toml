@@ -10,5 +10,7 @@ dependencies = [
     "matplotlib>=3.10.8",
     "numpy>=2.4.1",
     "pandas>=3.0.0",
+    "ruff>=0.14.14",
     "seaborn>=0.13.2",
+    "tqdm>=4.67.2",
 ]
